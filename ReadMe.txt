@@ -1,0 +1,1 @@
+To open the file first open Construct 3 in a web browser then click open and choose open from file and navigate to the location of the C3P file and select. And to run it you can click Run button on the menu bar
